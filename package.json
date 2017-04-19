@@ -1,0 +1,16 @@
+{
+  "name": "process.nexttick",
+  "version": "0.0.1",
+  "description": "Demo of process.nextTick",
+  "main": "app.js",
+  "scripts": {
+    "test": "process.nextTick"
+  },
+  "keywords": [
+    "nodejs",
+    "process",
+    "nextTick"
+  ],
+  "author": "Pankaj Kumar Jatav",
+  "license": "ISC"
+}
